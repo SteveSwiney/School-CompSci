@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Desktop/CompSci/CS 1570 Redo_and_Review/Assignment5/functions.cpp
+header.hpp
+/home/ubuntu/Desktop/CompSci/CS 1570 Redo_and_Review/Assignment5/header.hpp
+
+/home/ubuntu/Desktop/CompSci/CS 1570 Redo_and_Review/Assignment5/header.hpp
+iostream
+-
+string
+-
+
+/home/ubuntu/Desktop/CompSci/CS 1570 Redo_and_Review/Assignment5/main.cpp
+header.hpp
+/home/ubuntu/Desktop/CompSci/CS 1570 Redo_and_Review/Assignment5/header.hpp
+

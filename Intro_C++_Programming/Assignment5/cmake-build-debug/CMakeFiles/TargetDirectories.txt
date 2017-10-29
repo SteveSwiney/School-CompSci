@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/CompSci/CS 1570 Redo_and_Review/Assignment5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/CompSci/CS 1570 Redo_and_Review/Assignment5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/CompSci/CS 1570 Redo_and_Review/Assignment5/cmake-build-debug/CMakeFiles/Assignment5.dir
